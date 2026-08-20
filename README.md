@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Table of Contents
+## 📌 Table of Contents. 
 
 1. [Regression Metrics](#1-regression-metrics)
 2. [Classification Metrics](#2-classification-metrics)
